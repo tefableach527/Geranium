@@ -186,3 +186,15 @@
     padding-right: 10px;
   }
 }
+
+@media (max-width: 575px) {
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 480px;
+  }
+
+  .u-section-2 .u-social-icons-1 {
+    margin-top: 60px;
+    margin-left: 95px;
+    min-height: auto;
+  }
+}
